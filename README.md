@@ -132,7 +132,7 @@
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;- Références à ARISTOTE :
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;1- en puissance / en acte
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;2- La téléologie ( τέλος, en grec téléos : but)
-  <br><font styl="color:red">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;« La nature ne fait rien en vain »<font> (ARISTOTE) 
+  <br><font style="color:green">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;« La nature ne fait rien en vain »<font> (ARISTOTE) 
   <br>
   <br>&nbsp;&nbsp; &nbsp;&nbsp;Pour ARISTOTE, la Nature suit une finalité.
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Ex : un organe est naturellement voué à une fonction.
@@ -141,7 +141,17 @@
   <br><br><hr/>
   <p id="para5" style="border: 1px solid black; padding: 10px;"><b>DEUXIÈME PROPOSITION </b></p>
   <br>
+  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; → La Nature a doté l’Homme d’une rationalité qui lui sert à développer toutes ses facultés (technologiques, intellectuelles, artistiques, etc.)
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; Ce développement des facultés se réalise dans le cadre de l’espace humaine.
+  <br>La vie d’un seul individu n’est pas suffisante lorsque pour le rendre possible. └> L’Homme peut devenir plus que ce qu’il est.</p>
+  <p id="para8">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  = La perfectibilité de l’Homme (J.J. ROUSSEAU)</p>
   <p id="para3">
+
+
+
+
+
+
 
 
     <br><br><hr/>
