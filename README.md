@@ -233,7 +233,8 @@ par la Nature de tout ce dont ils ont besoin pour la survive de l’espèce)</p>
     <br><br><hr/>
   <p id="para5" style="border: 1px solid black; padding: 10px;"><b>HUITIÈME PROPOSITION </b></p>
   <br>
-  <p id="para3">
+  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;<mark> "millénarisme"</mark>: une forme de croyance eschatologique qui promet l'avènement
+d'une ère radicalement nouvelle qui mettra fin aux souffrances que nous connaissons.
 
 
 
