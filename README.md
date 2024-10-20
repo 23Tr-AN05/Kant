@@ -132,7 +132,7 @@
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;- Références à ARISTOTE :
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;1- en puissance / en acte
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;2- La téléologie ( τέλος, en grec téléos : but)
-  <br><font style="color:green">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;« La nature ne fait rien en vain »<font> (ARISTOTE) 
+  <br><font style="color:#00FF00">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;« La nature ne fait rien en vain »</font> (ARISTOTE) 
   <br>
   <br>&nbsp;&nbsp; &nbsp;&nbsp;Pour ARISTOTE, la Nature suit une finalité.
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Ex : un organe est naturellement voué à une fonction.
