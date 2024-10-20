@@ -117,7 +117,7 @@
  <p id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; Dans cet essai philosophique, Emmanuel KANT vise à montrer que l’Histoire a un sens, c’est-à-dire que le cours des évènements humains ne se déroule pas simplement au hasard. </p>
  <br>
  <img src="image/1.jpg" width="900" height="350" />
- <img src="image/1.jpg"  />
+ <img src="image/1.jpg" style="text-align:center" />
  <br>
  <p id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;Pour KANT, le hasard n’est qu’apparent. En réalité, nos actions sont déterminées par la Nature qui s’organise selon des lois universelles.</p>
  <p align="right" id="p5">≠Liberté</p>
@@ -182,7 +182,7 @@ par la Nature de tout ce dont ils ont besoin pour la survive de l’espèce)</p>
   <br><br>&nbsp;&nbsp; &nbsp;&nbsp;Ces oppositions seront résolues grâce à l’établissement des lois.<p>
   <br>
    <img src="image/2.jpg" width="900" height="450" />
-   <img src="image/2.jpg" />
+   <img src="image/2.jpg" style="text-align:center"/>
    <br>
    <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;    → Ces deux tendances en tension visent à établir une morale par les lois. Ces deux tendances nécessitent un cadre afin de les canaliser, ce seront les lois établies par la société. Ainsi le progrès généré par cette double tension (concurrences, vivalité, entraide,…) va pouvoir mener au progrès moral, par l’intermédiaire des lois.
    <br><br>&nbsp;&nbsp; &nbsp;&nbsp; → Comparaison avec l’Arcadie afin de souligner la nécessité des conflits, des guerres pour le progrès.
