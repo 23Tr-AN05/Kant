@@ -30,6 +30,11 @@
         text-align:center;
         color:red;
     }
+      #p1{
+        font-size:60px;
+        text-align:center;
+        color:black;
+    }
     #para2{
         font-size:30px;
         text-align:center;
@@ -233,29 +238,36 @@ par la Nature de tout ce dont ils ont besoin pour la survive de l’espèce)</p>
     <br><br><hr/>
   <p id="para5" style="border: 1px solid black; padding: 10px;"><b>HUITIÈME PROPOSITION </b></p>
   <br>
-  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;<mark> "millénarisme"</mark>: une forme de croyance eschatologique qui promet l'avènement
-d'une ère radicalement nouvelle qui mettra fin aux souffrances que nous connaissons.
+  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;<mark> "millénarisme"</mark>: une forme de croyance eschatologique qui promet l'avènement d'une ère radicalement nouvelle qui mettra fin aux souffrances que nous connaissons.
+  <br><br>&nbsp;&nbsp; &nbsp;&nbsp;  → Il suppose la possibilité de connaître l'avenir, qui sera fait de bonheur et de liberté.
+  <br><br>&nbsp;&nbsp; &nbsp;&nbsp;   → Emmanuel KANT imagine un État libéral où règne le plus de liberté possible dans les limites des lois (morales / justes). Il prône la liberté religieuse. 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   
+  C'est la réalisation des Lumières. 
+  <br><br>&nbsp;&nbsp; &nbsp;&nbsp;  → Emmanuel KANT note aussi que l’indépendance des États, des personnes n'ont pas intérêt à entrer en conflit. 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    C'est pourquoi chaque État, dans sa concurrence avec les autres, doit veiller au développement des sciences et des technologies. Ainsi, il contribue au progrès de l'humanité.
+ <br><br>&nbsp;&nbsp; &nbsp;&nbsp;   → Ce progrès de l’humanité signifie le développement des facultés humaines et de la moralité.
 
 
 
     <br><br><hr/>
   <p id="para5" style="border: 1px solid black; padding: 10px;"><b>NEUVIÈME PROPOSITION </b></p>
   <br>
-  <p id="para3">
-
- 
-
-
-
-
-
-
- 
-
-
-
+  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; → Emmanuel KANT envisage l’histoire au point de vue cosmopolitique et  expose le plan général d’une histoire universelle de l’humanité comme progrès , des Grecs jusqu’au XVIIIe siècle.
+ <br><br>&nbsp;&nbsp; &nbsp;&nbsp; → Il pose la nécessité d’une histoire philosophique qui découvre un dessein de la nature dans les actions humaines, qui contribuent à la réalisation de ce dessein.
+ <br><br>&nbsp;&nbsp; &nbsp;&nbsp; → À travers notre histoire, la fin (=le but) de la nature est notre destination  pratique, c’est-à-dire la fin que notre devoir (obligation morale) nous dicte.
+ <br><br><font style="color#FF0000;">
+ &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Étymologie grecque du mot « histoire » :
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  « ίστορία » (istoria) : signifie « enquête »
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; └> HÉRODOTE, THUCYDIDE (historiens)
+ <br><br>&nbsp;&nbsp; &nbsp;&nbsp; → Importance d’une histoire philosophique qui permettrait de prévoir l’avenir.
+ <br><br>&nbsp;&nbsp; &nbsp;&nbsp; →<b><mark> La morale</mark></b> : ce qui compte ce sera la valeur de nos actions et de leurs conséquences.
+ <br><br>&nbsp;&nbsp; &nbsp;&nbsp; → Cette téléologie de l’histoire s’adresse essentiellement aux historiens futurs, car il est nécessaire que chaque citoyen connaisse le passé pour suivre le dessein de la nature dans l’histoire et qu’il agisse en conséquence.
+ <br><br>&nbsp;&nbsp; &nbsp;&nbsp; → L’histoire est la mémoire des peuples libres, tandis que l’oubli fait l’esclavage et la barbarie.
 
 
+ <br><br><br>
+ <center><p id="p1">FINE</p></center>
+ <br><br><br>
 
 
 
