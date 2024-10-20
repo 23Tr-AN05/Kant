@@ -219,9 +219,6 @@ par la Nature de tout ce dont ils ont besoin pour la survive de l’espèce)</p>
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;    → Nécessité d’établir une constitution:
   <br>&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp;  MAIS comment faire pour qu’elle soit plus juste possible?</p>
 
-
-
-
  <ol>
      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; Il faut une philosophie du droit (savoir définir la justice et le droit)</li>
      <li id="para3">&nbsp;&nbsp; &nbsp;&nbsp; Il faut voyager pour prendre connaissance des constitutions existants ailleurs et conserver ce qu’il y a de meilleur dans chacune d’elles pour constituer la nôtre</li>
@@ -234,16 +231,18 @@ par la Nature de tout ce dont ils ont besoin pour la survive de l’espèce)</p>
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;  → On retrouve l’« insociable sociabilité » au coeur des États : chaque État cherche à satisfaire ses intérêts personnels. Donc on a besoin de lois internationales pour garantir la prospérité et la paix de chacun.
   <br>
   <center>   <img src="image/4.jpg" />  </center>
-  <br>
-
-
-
-
-
-
-
-
-
+  <br><br><p id="para3"><font style="color:#FF0000;">&nbsp;&nbsp; &nbsp;&nbsp;→ référence à Jean-Jacques ROUSSEAU>:</font>
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  Emmanuel KANT s’oppose à la thèse de Jean-Jacques ROUSSEAU qui défend l’idée que l’Homme est né bon, mais la société le corrompt.
+  <br><br>&nbsp;&nbsp; &nbsp;&nbsp;La thèse d’Emmanuel Kant : la société est civilisatrice, c’est-à-dire qu’elle transmet des valeurs morales et rend donc l’Homme meilleur.
+  <br><br>&nbsp;&nbsp; &nbsp;&nbsp; → Cette législation permettra de maintenir cet état de paix entre les États, de façon automatique = cela se réalise tout seul, sans intervention humaine.
+  <br><br>&nbsp;&nbsp; &nbsp;&nbsp;→ Pas de hasard dans l’histoire ; la nature, à travers les actions humaines, réalise le progrès moral de l’Homme.
+  <br><br>&nbsp;&nbsp; &nbsp;&nbsp;→ Emmanuel KANT croit en la présence d'un projet naturel dans les actions humaines, à travers les conflits, l'expression des passions.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;Il croit au progrès moral des Hommes. Sinon cela n'a aucun sens. 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;└> C'est rationnel de penser / croire qu'il y a bien ce but.
+  <br><br>&nbsp;&nbsp; &nbsp;&nbsp;<font style="color:#FF0000">"Cosmopolitique" (P.21) : universel, international</font>
+  <br><br>&nbsp;&nbsp; &nbsp;&nbsp;└> Il y a un besoin d'un droit international qui permettra d'aboutir à ce développement moral, mais chaque État doit également promouvoir une liberté civile en son sein. En effet, la référence à Jean-Jaques ROUSSEAU montre que le progrès des sciences et des arts ne rend pas inévitablement les Hommes plus vertueux.
+  <br><br>&nbsp;&nbsp; &nbsp;&nbsp;  → Emmanuel KANT, comme ROUSSEAU, souligne que la politesse et la bienséance ne suffisent pas et peuvent cacher la haine, la jalousie entre les Hommes (une simple apparence)
+ <br><br>&nbsp;&nbsp; &nbsp;&nbsp;→ Ce que recherche Emmanuel KANT à travers cette croyance dans le progrès moral des Hommes, c'est une paix perpétuelle, d'où résultera pour l'humanité la possibilité de s'améliorer moralement.
 
 
 
