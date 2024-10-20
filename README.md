@@ -177,7 +177,19 @@ par la Nature de tout ce dont ils ont besoin pour la survive de l’espèce)</p>
     <br><br><hr/>
   <p id="para5" style="border: 1px solid black; padding: 10px;"><b>QUATRIÈME PROPOSITION </b></p>
   <br>
-  <p id="para3">
+  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;   → La Nature utilise les oppositions (les désaccords, les guerres, les conflits, …) entre les Hommes pour atteindre son objectif qui est le développement complet des facultés humaines.
+  <br><br>&nbsp;&nbsp; &nbsp;&nbsp;Ces oppositions seront résolues grâce à l’établissement des lois.<p>
+  <br>
+   <img src="image/2.jpg" width="900" height="350" />
+   <br>
+   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;    → Ces deux tendances en tension visent à établir une morale par les lois. Ces deux tendances nécessitent un cadre afin de les canaliser, ce seront les lois établies par la société. Ainsi le progrès généré par cette double tension (concurrences, vivalité, entraide,…) va pouvoir mener au progrès moral, par l’intermédiaire des lois.
+   <br><br>&nbsp;&nbsp; &nbsp;&nbsp; → Comparaison avec l’Arcadie afin de souligner la nécessité des conflits, des guerres pour le progrès.
+   <br><br>&nbsp;&nbsp; &nbsp;&nbsp;  <font style="color:red">Arcadie : lieu idéal imaginaire appelé l’Âge d’or, en Grèce Antique :</font>
+   <br>- Repris par Virgile (Les Bucoliques), Ovide (Les Métamorphoses) dans leurs ouvrages.
+   <br>-Vie harmonieuse entre les Hommes et la nature à la disposition des Hommes
+   <br>&nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#0000FF">└> État de paix, donc pas de vivalité nie de concurrence dons pas de progrès.</font>
+   <br><br>De cette tendance conflictuelle des Homme on peut déduire que quelque choses agit à travers les actions des hommes pour réaliser le progrès moral, but ultime de la Nature.</p>
+
 
 
   <br><br><hr/>
