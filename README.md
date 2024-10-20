@@ -266,7 +266,7 @@ par la Nature de tout ce dont ils ont besoin pour la survive de l’espèce)</p>
 
 
  <br><br><br>
- <center><p id="p1">FINE</p></center>
+ <center><p id="p1"><FONT face="facifico">FINE</font></p></center>
  <br><br><br>
 
 
