@@ -50,6 +50,10 @@
         text-align:center;
         color:#FF1000;
     }
+    #p5{
+        font-size:40px;
+        color:#FF1000;
+    }
     #para6{
         font-size:20px;
         text-align:left;
@@ -115,7 +119,7 @@
  <img src="image/1.jpg" width="900" height="350" />
  <br>
  <p id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;Pour KANT, le hasard n’est qu’apparent. En réalité, nos actions sont déterminées par la Nature qui s’organise selon des lois universelles.</p>
- <p align="right" id="para5">≠Liberté</p>
+ <p align="right" id="p5">≠Liberté</p>
 
  <p id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;Ainsi, ce qui semble désordonné et irrationnel dans l’Histoire du point de vue de l’individu, se révèle du point de vue de l’espèce humaine comme un « développement progressif et continu de ses disposition originelles ». </p>
 
