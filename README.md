@@ -157,14 +157,22 @@
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;   La raison dont est doté l’Homme par la Nature permet le progrès de l’humanité, c’est-à-dire de l’espèce humaine, par « essais », « exercices »,« enseignements » : accumulation des savoirs et des savoir-faire.
   <br>&nbsp;&nbsp; &nbsp;&nbsp;L’existence de l’individu est trop courte pour permettre cette évolution qui a donc lieu au sein de l’espèce.</p>
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;⧓ Cette évolution est évaluée pour la réalisation du dessein de la Nature.
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; ⧓ Cette évolution est évaluée par la Nature.</p>
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; ⧓ Cette évolution est évaluée par la Nature.</p>
 
 
 
     <br><br><hr/>
   <p id="para5" style="border: 1px solid black; padding: 10px;"><b>TROISIÈME PROPOSITION </b></p>
   <br>
-  <p id="para3">
+  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;  → L’Homme, même s’il est également un animal, il n’a pas d’instinct, mais il possède une raison. Celle-ci permet à l’Homme de dépasser les obstacles auxquels il est confronté, de progresser ; ainsi, il doit ce qu’il invente ou ce qu’il fait à lui-même.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp;  └> estime de soi ≠ l’orgueil </p>
+
+
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  -Référence à ARISTOTE : « sur la main » / « intelligence »
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;-Référence à PLATON : le mythe de PROMÉTHÉE (les animaux sont dotés
+par la Nature de tout ce dont ils ont besoin pour la survive de l’espèce)</p>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;  → Le travail de chaque génération permet à la suivante de mieux vivre.</p>
+
 
     <br><br><hr/>
   <p id="para5" style="border: 1px solid black; padding: 10px;"><b>QUATRIÈME PROPOSITION </b></p>
