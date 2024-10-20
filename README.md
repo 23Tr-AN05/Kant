@@ -135,15 +135,21 @@
 
  <div class="content">
  </div>
- 
-  <p id="para5" style="border: 1px solid black; padding: 10px;"><b>INTRODUCTION </b></p>
+
+  
   <br>
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; → KANT propose de chercher s’il n’existe pas un « dessein de la Nature », c’est-à-dire un but de la Nature qui suivent des règles. Il envisage que derrière les actions humaines passionnelles, intéressées, chaotiques, irrationnelles, il existe un ordre rationnel.
  <br>&nbsp;&nbsp; &nbsp;&nbsp; └> Cela pose la question du déterminisme dans les actions humaines.
  <br><br>
 
  <hr/>
-  <p id="para5" style="border: 1px solid black; padding: 10px;"><b>PREMIÈRE PROPOSITION </b></p>
+    <button type="button" class="collapsible"> <p id="para5" style="border: 1px solid black; padding: 10px;"><b>PREMIÈRE PROPOSITION </b></p> </button>
+
+ <div class="content">
+  <p id="para3"><i>Toutes les dispositions naturelles d’une créature sont destinées à se développer un jour complètement et conformément à une fin. </i>
+    <br /><br>Cela se vérifie chez tous les animaux, aussi bien par l’observation externe qu’interne ou anatomique. Un organe qui ne doit pas avoir d’usage, un agencement qui n’atteint pas sa fin, sont une contradiction dans l’étude téléologique de la nature. Car si nous abandonnons ce principe, nous n’avons plus une nature conforme à des lois mais un jeu de la nature sans finalité ; et le hasard désolant remplace le fil directeur de la raison. </p>
+ </div>
+ 
   <br>
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;- Références à ARISTOTE :
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;1- en puissance / en acte
