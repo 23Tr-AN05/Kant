@@ -182,7 +182,7 @@ par la Nature de tout ce dont ils ont besoin pour la survive de l’espèce)</p>
   <br><br>&nbsp;&nbsp; &nbsp;&nbsp;Ces oppositions seront résolues grâce à l’établissement des lois.<p>
   <br>
    <img src="image/2.jpg" width="900" height="450" />
-   <img src="image/2.jpg" style="text-align:center"/>
+   <center>   <img src="image/2.jpg" />  </center>
    <br>
    <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;    → Ces deux tendances en tension visent à établir une morale par les lois. Ces deux tendances nécessitent un cadre afin de les canaliser, ce seront les lois établies par la société. Ainsi le progrès généré par cette double tension (concurrences, vivalité, entraide,…) va pouvoir mener au progrès moral, par l’intermédiaire des lois.
    <br><br>&nbsp;&nbsp; &nbsp;&nbsp; → Comparaison avec l’Arcadie afin de souligner la nécessité des conflits, des guerres pour le progrès.
