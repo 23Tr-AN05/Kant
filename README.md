@@ -232,6 +232,18 @@ par la Nature de tout ce dont ils ont besoin pour la survive de l’espèce)</p>
   <p id="para5" style="border: 1px solid black; padding: 10px;"><b>SEPTIÈME PROPOSITION </b></p>
   <br>
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;  → On retrouve l’« insociable sociabilité » au coeur des États : chaque État cherche à satisfaire ses intérêts personnels. Donc on a besoin de lois internationales pour garantir la prospérité et la paix de chacun.
+  <br>
+  <center>   <img src="image/4.jpg" />  </center>
+  <br>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -266,7 +278,7 @@ par la Nature de tout ce dont ils ont besoin pour la survive de l’espèce)</p>
 
 
  <br><br><br>
- <center><p id="p1"><font face="Mirama">FINE</font></p></center>
+ <center><p id="p1"><i><u>FINE</u></i></p></center>
  <br><br><br>
 
 
