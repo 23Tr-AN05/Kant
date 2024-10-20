@@ -147,7 +147,7 @@
   <p id="para8">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  = La perfectibilité de l’Homme (J.J. ROUSSEAU)</p>
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;Car, il n’est pas enfermé dans les limites de son instinct, contrairement à l’animal.
   <br>&nbsp;&nbsp; &nbsp;&nbsp;L’Homme est capable de faire des projets qu’il se propose lui-même, il est donc libre.</p>
-  <p id="para3" style="border: 1px solid red; padding: 10px;"><b><u>Progrès </u></b>: peut être continu ou non-continu et croissant ou décroissant. Ce n’est doncpas une amélioration continue.
+  <p id="para3" style="border: 2px solid red; padding: 10px;"><b><u>Progrès </u></b>: peut être continu ou non-continu et croissant ou décroissant. Ce n’est doncpas une amélioration continue.
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Une maladie qui progresse donc pas d’amélioration.</p>
 
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;   La raison dont est doté l’Homme par la Nature permet le progrès de l’humanité, c’est-à-dire de l’espèce humaine, par « essais », « exercices »,« enseignements » : accumulation des savoirs et des savoir-faire.
