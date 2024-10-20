@@ -203,8 +203,23 @@ par la Nature de tout ce dont ils ont besoin pour la survive de l’espèce)</p>
     <br><br><hr/>
   <p id="para5" style="border: 1px solid black; padding: 10px;"><b>SIXIÈME PROPOSITION </b></p>
   <br>
-  <p id="para3">
+  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;   → L’Homme est un animale: il suit ses désirs, ses intérêts
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;→ C’est pour cela qu’il a besoin d’un maître qui va établir des lois pour que la société soit possible
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;→ PROBLÈME: le maître est aussi un être humain qui suit ses désirs.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Il faudrait que ce maître soit juste, droit, sans avoir besoin de lois pour le cadrer. => <font style="color:#FF0000">IMPOSSIBLE</font>
+  <p id="para5">«Dans un bois aussi courbe que celui dont est fait l’Homme, on ne peut rien tailler de tout à fait droit»  </p>
+  <br>
+  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;    → Nécessité d’établir une constitution:
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp;  MAIS comment faire pour qu’elle soit plus juste possible?</p>
 
+
+
+
+ <ol>
+     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; Il faut une philosophie du droit (savoir définir la justice et le droit)</li>
+     <li id="para3">&nbsp;&nbsp; &nbsp;&nbsp; Il faut voyager pour prendre connaissance des constitutions existants ailleurs et conserver ce qu’il y a de meilleur dans chacune d’elles pour constituer la nôtre</li>
+     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; Il faut éduquer le peuple pour qu’il soit prêt à accepter une constitution (= des contraintes à sa liberté) que l’on lui impose => <font style="color:#0000FF">Pédagogie</font></li>
+ </ol>
 
     <br><br><hr/>
   <p id="para5" style="border: 1px solid black; padding: 10px;"><b>SEPTIÈME PROPOSITION </b></p>
