@@ -145,12 +145,15 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp; Ce développement des facultés se réalise dans le cadre de l’espace humaine.
   <br>La vie d’un seul individu n’est pas suffisante lorsque pour le rendre possible. └> L’Homme peut devenir plus que ce qu’il est.</p>
   <p id="para8">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  = La perfectibilité de l’Homme (J.J. ROUSSEAU)</p>
-  <p id="para3">
+  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;Car, il n’est pas enfermé dans les limites de son instinct, contrairement à l’animal.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;L’Homme est capable de faire des projets qu’il se propose lui-même, il est donc libre.</p>
+  <p id="para3" style="border: 1px solid red; padding: 10px;"><b><u>Progrès </u></b>: peut être continu ou non-continu et croissant ou décroissant. Ce n’est doncpas une amélioration continue.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Une maladie qui progresse donc pas d’amélioration.</p>
 
-
-
-
-
+  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;   La raison dont est doté l’Homme par la Nature permet le progrès de l’humanité, c’est-à-dire de l’espèce humaine, par « essais », « exercices »,« enseignements » : accumulation des savoirs et des savoir-faire.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;L’existence de l’individu est trop courte pour permettre cette évolution qui a donc lieu au sein de l’espèce.</p>
+  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;⧓ Cette évolution est évaluée pour la réalisation du dessein de la Nature.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; ⧓ Cette évolution est évaluée par la Nature.</p>
 
 
 
