@@ -126,7 +126,72 @@
  <br>&nbsp;&nbsp; &nbsp;&nbsp; └> Cela pose la question du déterminisme dans les actions humaines.
  <br><br>
 
-<p align="right">
+ <hr/>
+  <p id="para5" style="border: 1px solid black; padding: 10px;"><b>PREMIÈRE PROPOSITION </b></p>
+  <br>
+  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;- Références à ARISTOTE :
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;1- en puissance / en acte
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;2- La téléologie ( τέλος, en grec téléos : but)
+  <br><font styl="color:red">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;« La nature ne fait rien en vain »<font> (ARISTOTE) 
+  <br>
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;Pour ARISTOTE, la Nature suit une finalité.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Ex : un organe est naturellement voué à une fonction.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;└> Les productions naturelles ne sont pas des échecs, mais que chacune à sa place.
+  </p>
+  <br><br><hr/>
+  <p id="para5" style="border: 1px solid black; padding: 10px;"><b>DEUXIÈME PROPOSITION </b></p>
+  <br>
+  <p id="para3">
+
+
+    <br><br><hr/>
+  <p id="para5" style="border: 1px solid black; padding: 10px;"><b>TROISIÈME PROPOSITION </b></p>
+  <br>
+  <p id="para3">
+
+    <br><br><hr/>
+  <p id="para5" style="border: 1px solid black; padding: 10px;"><b>QUATRIÈME PROPOSITION </b></p>
+  <br>
+  <p id="para3">
+
+
+  <br><br><hr/>
+  <p id="para5" style="border: 1px solid black; padding: 10px;"><b>CINQIÈME PROPOSITION </b></p>
+  <br>
+  <p id="para3">
+
+
+    <br><br><hr/>
+  <p id="para5" style="border: 1px solid black; padding: 10px;"><b>SIXIÈME PROPOSITION </b></p>
+  <br>
+  <p id="para3">
+
+
+    <br><br><hr/>
+  <p id="para5" style="border: 1px solid black; padding: 10px;"><b>SEPTIÈME PROPOSITION </b></p>
+  <br>
+  <p id="para3">
+
+
+
+    <br><br><hr/>
+  <p id="para5" style="border: 1px solid black; padding: 10px;"><b>HUITIÈME PROPOSITION </b></p>
+  <br>
+  <p id="para3">
+
+
+
+    <br><br><hr/>
+  <p id="para5" style="border: 1px solid black; padding: 10px;"><b>NEUVIÈME PROPOSITION </b></p>
+  <br>
+  <p id="para3">
+
+ 
+
+
+
+
+
 
  
 
