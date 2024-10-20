@@ -107,7 +107,7 @@
  </style></head>
 
  <body>
- <h1 id="para1">Emmanuel KANT,<br><i>IDÉE D’UNE HISTOIRE UNIVERSELLE AU POINT DE VUECOSMOPOLITIQUE,</i><br> 1784</h1>
+ <h1 id="para1">Emmanuel KANT,<br><i><u>IDÉE D’UNE HISTOIRE UNIVERSELLE AU POINT DE VUE COSMOPOLITIQUE,</u></i><br> 1784</h1>
  <br> <br>
 
  <p id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; Dans cet essai philosophique, Emmanuel KANT vise à montrer que l’Histoire a un sens, c’est-à-dire que le cours des évènements humains ne se déroule pas simplement au hasard. </p>
@@ -115,7 +115,7 @@
  <img src="image/1.jpg" width="900" height="350" />
  <br>
  <p id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;Pour KANT, le hasard n’est qu’apparent. En réalité, nos actions sont déterminées par la Nature qui s’organise selon des lois universelles.</p>
- <p id="para8">≠Liberté</p>
+ <p id="para8"><font style="align:right">≠Liberté</font></p>
 
  <p id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;Ainsi, ce qui semble désordonné et irrationnel dans l’Histoire du point de vue de l’individu, se révèle du point de vue de l’espèce humaine comme un « développement progressif et continu de ses disposition originelles ». </p>
 
@@ -126,7 +126,7 @@
  <br>&nbsp;&nbsp; &nbsp;&nbsp; └> Cela pose la question du déterminisme dans les actions humaines.
  <br><br>
 
-
+<p align="right">
 
  
 
