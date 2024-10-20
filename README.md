@@ -121,8 +121,8 @@
 
  <p id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; Dans cet essai philosophique, Emmanuel KANT vise à montrer que l’Histoire a un sens, c’est-à-dire que le cours des évènements humains ne se déroule pas simplement au hasard. </p>
  <br>
- <img src="image/1.jpg" width="900" height="350" />
- <img src="image/1.jpg" style="text-align:center" />
+ <center><img src="image/1.jpg" /></center>
+
  <br>
  <p id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;Pour KANT, le hasard n’est qu’apparent. En réalité, nos actions sont déterminées par la Nature qui s’organise selon des lois universelles.</p>
  <p align="right" id="p5">≠Liberté</p>
@@ -186,7 +186,7 @@ par la Nature de tout ce dont ils ont besoin pour la survive de l’espèce)</p>
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;   → La Nature utilise les oppositions (les désaccords, les guerres, les conflits, …) entre les Hommes pour atteindre son objectif qui est le développement complet des facultés humaines.
   <br><br>&nbsp;&nbsp; &nbsp;&nbsp;Ces oppositions seront résolues grâce à l’établissement des lois.<p>
   <br>
-   <img src="image/2.jpg" width="900" height="450" />
+   
    <center>   <img src="image/2.jpg" />  </center>
    <br>
    <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;    → Ces deux tendances en tension visent à établir une morale par les lois. Ces deux tendances nécessitent un cadre afin de les canaliser, ce seront les lois établies par la société. Ainsi le progrès généré par cette double tension (concurrences, vivalité, entraide,…) va pouvoir mener au progrès moral, par l’intermédiaire des lois.
@@ -202,7 +202,7 @@ par la Nature de tout ce dont ils ont besoin pour la survive de l’espèce)</p>
   <br><br><hr/>
   <p id="para5" style="border: 1px solid black; padding: 10px;"><b>CINQIÈME PROPOSITION </b></p>
   <br>
-   <img src="image/3.jpg" />
+   <center><img src="image/3.jpg" /></center>
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; → Pour cadrer cette liberté sauvage, il faut fonder une société civile qui va établir des lois <font style="color:#FF0000"> justes.
   <br><br>Justice: chaque citoyen sera aussi libre que les autres et suivra les mêmes contraintes légales.</font>
   <br><br>&nbsp;&nbsp; &nbsp;&nbsp;→Métaphore des arbres dans la forêt: les arbres sont en concurrence les uns avec les autres, pour atteindre le soleil. ≠ Quand il y a peu d’arbres, ils sont en totale liberté et poussent dans tous les sens, pas droit.</p>
@@ -238,7 +238,7 @@ par la Nature de tout ce dont ils ont besoin pour la survive de l’espèce)</p>
     <br><br><hr/>
   <p id="para5" style="border: 1px solid black; padding: 10px;"><b>HUITIÈME PROPOSITION </b></p>
   <br>
-  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;<mark> "millénarisme"</mark>: une forme de croyance eschatologique qui promet l'avènement d'une ère radicalement nouvelle qui mettra fin aux souffrances que nous connaissons.
+  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;<mark> "Millénarisme"</mark>: une forme de croyance eschatologique qui promet l'avènement d'une ère radicalement nouvelle qui mettra fin aux souffrances que nous connaissons.
   <br><br>&nbsp;&nbsp; &nbsp;&nbsp;  → Il suppose la possibilité de connaître l'avenir, qui sera fait de bonheur et de liberté.
   <br><br>&nbsp;&nbsp; &nbsp;&nbsp;   → Emmanuel KANT imagine un État libéral où règne le plus de liberté possible dans les limites des lois (morales / justes). Il prône la liberté religieuse. 
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   
