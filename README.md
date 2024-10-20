@@ -195,7 +195,7 @@ par la Nature de tout ce dont ils ont besoin pour la survive de l’espèce)</p>
   <br><br><hr/>
   <p id="para5" style="border: 1px solid black; padding: 10px;"><b>CINQIÈME PROPOSITION </b></p>
   <br>
-   <img src="image/2.jpg" width="900" height="350" />
+   <img src="image/3.jpg" width="900" height="350" />
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; → Pour cadrer cette liberté sauvage, il faut fonder une société civile qui va établir des lois <font style="color:#FF0000"> justes.
   <br><br>Justice: chaque citoyen sera aussi libre que les autres et suivra les mêmes contraintes légales.</font>
   <br><br>&nbsp;&nbsp; &nbsp;&nbsp;→Métaphore des arbres dans la forêt: les arbres sont en concurrence les uns avec les autres, pour atteindre le soleil. ≠ Quand il y a peu d’arbres, ils sont en totale liberté et poussent dans tous les sens, pas droit.</p>
