@@ -169,7 +169,7 @@
 
 
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  -Référence à ARISTOTE : « sur la main » / « intelligence »
- <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;-Référence à PLATON : le mythe de PROMÉTHÉE (les animaux sont dotés
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;-Référence à PLATON : le mythe de PROMÉTHÉE (les animaux sont dotés
 par la Nature de tout ce dont ils ont besoin pour la survive de l’espèce)</p>
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;  → Le travail de chaque génération permet à la suivante de mieux vivre.</p>
 
@@ -180,7 +180,7 @@ par la Nature de tout ce dont ils ont besoin pour la survive de l’espèce)</p>
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;   → La Nature utilise les oppositions (les désaccords, les guerres, les conflits, …) entre les Hommes pour atteindre son objectif qui est le développement complet des facultés humaines.
   <br><br>&nbsp;&nbsp; &nbsp;&nbsp;Ces oppositions seront résolues grâce à l’établissement des lois.<p>
   <br>
-   <img src="image/2.jpg" width="900" height="350" />
+   <img src="image/2.jpg" width="900" height="450" />
    <br>
    <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;    → Ces deux tendances en tension visent à établir une morale par les lois. Ces deux tendances nécessitent un cadre afin de les canaliser, ce seront les lois établies par la société. Ainsi le progrès généré par cette double tension (concurrences, vivalité, entraide,…) va pouvoir mener au progrès moral, par l’intermédiaire des lois.
    <br><br>&nbsp;&nbsp; &nbsp;&nbsp; → Comparaison avec l’Arcadie afin de souligner la nécessité des conflits, des guerres pour le progrès.
@@ -195,8 +195,10 @@ par la Nature de tout ce dont ils ont besoin pour la survive de l’espèce)</p>
   <br><br><hr/>
   <p id="para5" style="border: 1px solid black; padding: 10px;"><b>CINQIÈME PROPOSITION </b></p>
   <br>
-  <p id="para3">
-
+   <img src="image/2.jpg" width="900" height="350" />
+  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; → Pour cadrer cette liberté sauvage, il faut fonder une société civile qui va établir des lois <font style="color:#FF0000"> justes.
+  <br><br>Justice: chaque citoyen sera aussi libre que les autres et suivra les mêmes contraintes légales.</font>
+  <br><br>&nbsp;&nbsp; &nbsp;&nbsp;→Métaphore des arbres dans la forêt: les arbres sont en concurrence les uns avec les autres, pour atteindre le soleil. ≠ Quand il y a peu d’arbres, ils sont en totale liberté et poussent dans tous les sens, pas droit.</p>
 
     <br><br><hr/>
   <p id="para5" style="border: 1px solid black; padding: 10px;"><b>SIXIÈME PROPOSITION </b></p>
